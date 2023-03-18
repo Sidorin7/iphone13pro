@@ -1,1 +1,4 @@
-<img width="150" height="150" src="https://ibb.co/Q9SyjTr">
+<p align="center">
+      <img src="https://imgur.com/a/G2FMR2u" >
+</p>
+
